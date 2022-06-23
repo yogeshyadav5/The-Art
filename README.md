@@ -8,6 +8,6 @@ We name this project The-Art because Art is an expression of our thoughts, emoti
 
 The main purpose of the project is everyone can sell their pictures , art , videos and etc. on our platform. We want people and we come togther and make our platform uinque which have people's expression and thoughts.
 
-# Team Names
+# Contributors 
 1. Shorya Dixit
 2. Yogesh Yadav
