@@ -1,15 +1,9 @@
-# Basic Sample Hardhat Project
+# Inroduction
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project is  Nft-Marketplace. Where everyone can sell their hand made art, digital art, videos, gif, audio and so many things in the form of nft.
 
-Try running some of the following tasks:
+We name this project The-Art because Art is an expression of our thoughts, emotions, intuitions, and desires, but it is even more personal than that: it’s about sharing the way we experience the world, which for many is an extension of personality. We think that anyone can express their view in the form of picture and video and etc. And everyone has a different and unique view.
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+# The Purpose of the Project
+
+The main purpose of the project is everyone can sell their pictures , art , videos and etc. on our platform. We want people and we come togther and make our platform uinque which have people's expression and thoughts.
